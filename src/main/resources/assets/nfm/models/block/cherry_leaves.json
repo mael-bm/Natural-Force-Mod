@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/leavescherry",
+    "up": "nfm:blocks/leavescherry",
+    "north": "nfm:blocks/leavescherry",
+    "east": "nfm:blocks/leavescherry",
+    "south": "nfm:blocks/leavescherry",
+    "west": "nfm:blocks/leavescherry",
+    "particle": "nfm:blocks/leavescherry"
+  }
+}

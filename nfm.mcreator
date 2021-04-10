@@ -1,0 +1,413 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NFMTab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nfm_tab",
+      "path": "~/Autre"
+    },
+    {
+      "name": "SeparatorMachineGUI",
+      "type": "gui",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "separator_machine_gui",
+      "path": "~/Machines/GUIs"
+    },
+    {
+      "name": "SeparatorMachine",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "separator_machine",
+      "path": "~/Machines"
+    },
+    {
+      "name": "UseSeparatorMachine",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "use_separator_machine",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Machines/Procedures"
+    },
+    {
+      "name": "PureSandDust",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pure_sand_dust",
+      "path": "~/Items/SandDust"
+    },
+    {
+      "name": "ImpureSandDust",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impure_sand_dust",
+      "path": "~/Items/SandDust"
+    },
+    {
+      "name": "CherryWoodLog",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cherry_wood_log",
+      "path": "~/Blocs"
+    },
+    {
+      "name": "CherryLeaves",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cherry_leaves",
+      "path": "~/Blocs"
+    },
+    {
+      "name": "PureSand",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pure_sand",
+      "path": "~/Blocs"
+    },
+    {
+      "name": "PureGlass",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pure_glass",
+      "path": "~/Deco"
+    },
+    {
+      "name": "PureGlassRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pure_glass_recipe",
+      "path": "~/Items/SandDust"
+    },
+    {
+      "name": "PureSandRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pure_sand_recipe",
+      "path": "~/Items/SandDust"
+    },
+    {
+      "name": "CompactorMachine",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compactor_machine",
+      "path": "~/Machines"
+    },
+    {
+      "name": "UseCompactorMachine",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "use_compactor_machine",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Machines/Procedures"
+    },
+    {
+      "name": "SapVial",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sap_vial",
+      "path": "~/Items/Fioles"
+    },
+    {
+      "name": "CherrySapVial",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cherry_sap_vial",
+      "path": "~/Items/Fioles"
+    },
+    {
+      "name": "SapExtractorMachine",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sap_extractor_machine",
+      "path": "~/Machines"
+    },
+    {
+      "name": "CompactorMachineGUI",
+      "type": "gui",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compactor_machine_gui",
+      "path": "~/Machines/GUIs"
+    },
+    {
+      "name": "SapExtractorMachineGUI",
+      "type": "gui",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sap_extractor_machine_gui",
+      "path": "~/Machines/GUIs"
+    },
+    {
+      "name": "UseSapExtractorMachine",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "use_sap_extractor_machine",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Machines/Procedures"
+    },
+    {
+      "name": "FusionMachine",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fusion_machine",
+      "path": "~/Machines"
+    },
+    {
+      "name": "FusionMachineGUI",
+      "type": "gui",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fusion_machine_gui",
+      "path": "~/Machines/GUIs"
+    },
+    {
+      "name": "UseFusionMachine",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "use_fusion_machine",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Machines/Procedures"
+    },
+    {
+      "name": "CompactedCobblestone",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compacted_cobblestone",
+      "path": "~/Blocs"
+    },
+    {
+      "name": "WoodenFloorClassic",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_floor_classic",
+      "path": "~/Blocs"
+    },
+    {
+      "name": "WoodenFloorBricks",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_floor_bricks",
+      "path": "~/Blocs"
+    },
+    {
+      "name": "SuperGlowstone",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_glowstone",
+      "path": "~/Blocs"
+    },
+    {
+      "name": "RedAlpinia1",
+      "type": "plant",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_alpinia_1",
+      "path": "~/Deco"
+    },
+    {
+      "name": "RedAlpinia2",
+      "type": "plant",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_alpinia_2",
+      "path": "~/Deco"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.nfm.wooden_floor_classic": "Wooden Floor Classic",
+      "item.nfm.sap_vial": "Sap Vial",
+      "block.nfm.pure_sand": "Pure Sand",
+      "block.nfm.separator_machine": "Separator Machine",
+      "block.nfm.pure_glass": "Pure Glass",
+      "block.nfm.fusion_machine": "Fusion Machine",
+      "block.nfm.wooden_floor_bricks": "Wooden Floor Bricks",
+      "block.nfm.cherry_leaves": "Cherry Leaves",
+      "block.nfm.sap_extractor_machine": "Sap Extractor Machine",
+      "item.nfm.cherry_sap_vial": "Cherry Sap Vial",
+      "block.nfm.cherry_wood_log": "Cherry Wood Log",
+      "block.nfm.red_alpinia_1": "Red Alpinia 1",
+      "block.nfm.red_alpinia_2": "Red Alpinia 2",
+      "itemGroup.tabnfm_tab": "NFM Tab",
+      "item.nfm.pure_sand_dust": "Pure Sand Dust",
+      "block.nfm.compactor_machine": "Compactor Machine",
+      "block.nfm.super_glowstone": "Super Glowstone",
+      "item.nfm.impure_sand_dust": "Impure Sand Dust",
+      "block.nfm.compacted_cobblestone": "Compacted Cobblestone"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Machines",
+        "children": [
+          {
+            "name": "GUIs",
+            "children": []
+          },
+          {
+            "name": "Procedures",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Blocs",
+        "children": []
+      },
+      {
+        "name": "Deco",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": [
+          {
+            "name": "Fioles",
+            "children": []
+          },
+          {
+            "name": "SandDust",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Autre",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "nfm",
+    "modName": "Natural-Force-Mod",
+    "version": "1.0.0",
+    "author": "maelb, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "sttp.nfm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100112313
+}

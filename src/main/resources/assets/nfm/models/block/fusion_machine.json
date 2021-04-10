@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/fusionmachine",
+    "up": "nfm:blocks/fusionmachine",
+    "north": "nfm:blocks/fusionmachine",
+    "east": "nfm:blocks/fusionmachine",
+    "south": "nfm:blocks/fusionmachine",
+    "west": "nfm:blocks/fusionmachine",
+    "particle": "nfm:blocks/fusionmachine"
+  }
+}

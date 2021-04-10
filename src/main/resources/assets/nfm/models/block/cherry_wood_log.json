@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/cherrywoodlogtopgood",
+    "up": "nfm:blocks/cherrywoodlogtopgood",
+    "north": "nfm:blocks/logcherry",
+    "east": "nfm:blocks/logcherry",
+    "south": "nfm:blocks/logcherry",
+    "west": "nfm:blocks/logcherry",
+    "particle": "nfm:blocks/cherrywoodlogtopgood"
+  }
+}

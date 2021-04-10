@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nfm:blocks/red_alpinia_state1",
+    "particle": "nfm:blocks/red_alpinia_state1"
+  }
+}

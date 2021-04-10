@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/birch_planks",
+    "up": "nfm:blocks/birch_planks",
+    "north": "nfm:blocks/birch_planks",
+    "east": "nfm:blocks/birch_planks",
+    "south": "nfm:blocks/birch_planks",
+    "west": "nfm:blocks/birch_planks",
+    "particle": "nfm:blocks/birch_planks"
+  }
+}

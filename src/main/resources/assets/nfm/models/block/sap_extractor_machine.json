@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/extractormachine",
+    "up": "nfm:blocks/extractormachine",
+    "north": "nfm:blocks/extractormachine",
+    "east": "nfm:blocks/extractormachine",
+    "south": "nfm:blocks/extractormachine",
+    "west": "nfm:blocks/extractormachine",
+    "particle": "nfm:blocks/extractormachine"
+  }
+}

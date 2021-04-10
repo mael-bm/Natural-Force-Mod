@@ -1,0 +1,42 @@
+{
+  "group": "nfm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nfm:pure_sand_dust"
+    },
+    "1": {
+      "item": "nfm:pure_sand_dust"
+    },
+    "2": {
+      "item": "nfm:pure_sand_dust"
+    },
+    "3": {
+      "item": "nfm:pure_sand_dust"
+    },
+    "4": {
+      "item": "nfm:pure_sand_dust"
+    },
+    "5": {
+      "item": "nfm:pure_sand_dust"
+    },
+    "6": {
+      "item": "nfm:pure_sand_dust"
+    },
+    "7": {
+      "item": "nfm:pure_sand_dust"
+    },
+    "8": {
+      "item": "nfm:pure_sand_dust"
+    }
+  },
+  "result": {
+    "item": "nfm:pure_sand",
+    "count": 1
+  }
+}

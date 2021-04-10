@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "nfm:block/sap_extractor_machine"
+    }
+  }
+}

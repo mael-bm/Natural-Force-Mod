@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/sapextractorside",
+    "up": "nfm:blocks/sapextractorside",
+    "north": "nfm:blocks/sapextractorside",
+    "east": "nfm:blocks/sapextractorside",
+    "south": "nfm:blocks/sapextractorside",
+    "west": "nfm:blocks/sapextractorside",
+    "particle": "nfm:blocks/sapextractorside"
+  }
+}

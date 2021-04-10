@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nfm:blocks/red_akpinia_growed",
+    "particle": "nfm:blocks/red_akpinia_growed"
+  }
+}

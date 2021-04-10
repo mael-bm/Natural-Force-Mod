@@ -1,0 +1,12 @@
+{
+  "group": "nfm",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "nfm:pure_sand"
+  },
+  "result": {
+    "item": "nfm:pure_glass"
+  }
+}

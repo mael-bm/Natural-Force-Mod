@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nfm:blocks/red_akpinia_growed"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/compressed_cobble",
+    "up": "nfm:blocks/compressed_cobble",
+    "north": "nfm:blocks/compressed_cobble",
+    "east": "nfm:blocks/compressed_cobble",
+    "south": "nfm:blocks/compressed_cobble",
+    "west": "nfm:blocks/compressed_cobble",
+    "particle": "nfm:blocks/compressed_cobble"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/compactormachine",
+    "up": "nfm:blocks/compactormachine",
+    "north": "nfm:blocks/compactormachine",
+    "east": "nfm:blocks/compactormachine",
+    "south": "nfm:blocks/compactormachine",
+    "west": "nfm:blocks/compactormachine",
+    "particle": "nfm:blocks/compactormachine"
+  }
+}

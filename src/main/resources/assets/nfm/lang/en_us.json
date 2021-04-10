@@ -1,0 +1,21 @@
+{
+  "block.nfm.wooden_floor_classic": "Wooden Floor Classic",
+  "item.nfm.sap_vial": "Sap Vial",
+  "block.nfm.pure_sand": "Pure Sand",
+  "block.nfm.separator_machine": "Separator Machine",
+  "block.nfm.pure_glass": "Pure Glass",
+  "block.nfm.fusion_machine": "Fusion Machine",
+  "block.nfm.wooden_floor_bricks": "Wooden Floor Bricks",
+  "block.nfm.cherry_leaves": "Cherry Leaves",
+  "block.nfm.sap_extractor_machine": "Sap Extractor Machine",
+  "item.nfm.cherry_sap_vial": "Cherry Sap Vial",
+  "block.nfm.cherry_wood_log": "Cherry Wood Log",
+  "block.nfm.red_alpinia_1": "Red Alpinia 1",
+  "block.nfm.red_alpinia_2": "Red Alpinia 2",
+  "itemGroup.tabnfm_tab": "NFM Tab",
+  "item.nfm.pure_sand_dust": "Pure Sand Dust",
+  "block.nfm.compactor_machine": "Compactor Machine",
+  "block.nfm.super_glowstone": "Super Glowstone",
+  "item.nfm.impure_sand_dust": "Impure Sand Dust",
+  "block.nfm.compacted_cobblestone": "Compacted Cobblestone"
+}

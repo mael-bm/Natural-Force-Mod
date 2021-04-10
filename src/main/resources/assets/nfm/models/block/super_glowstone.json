@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/glowstone",
+    "up": "nfm:blocks/glowstone",
+    "north": "nfm:blocks/glowstone",
+    "east": "nfm:blocks/glowstone",
+    "south": "nfm:blocks/glowstone",
+    "west": "nfm:blocks/glowstone",
+    "particle": "nfm:blocks/glowstone"
+  }
+}

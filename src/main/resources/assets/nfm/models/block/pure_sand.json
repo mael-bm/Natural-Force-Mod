@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nfm:blocks/puresand",
+    "up": "nfm:blocks/puresand",
+    "north": "nfm:blocks/puresand",
+    "east": "nfm:blocks/puresand",
+    "south": "nfm:blocks/puresand",
+    "west": "nfm:blocks/puresand",
+    "particle": "nfm:blocks/puresand"
+  }
+}
